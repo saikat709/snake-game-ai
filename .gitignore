@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local user data / high scores
+highscore.json
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
